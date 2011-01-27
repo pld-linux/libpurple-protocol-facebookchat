@@ -10,6 +10,7 @@ Source0:	http://pidgin-facebookchat.googlecode.com/files/pidgin-facebookchat-sou
 Source1:	Makefile
 BuildRequires:	json-glib-devel
 BuildRequires:	libpurple-devel >= 2.5.8
+BuildRequires:	pkgconfig
 Obsoletes:	pidgin-facebookchat < 1.35-3
 Obsoletes:	purple-facebookchat
 ExcludeArch:	s390x
