@@ -1,7 +1,7 @@
 Summary:	Libpurple plug-in supporting facebook IM
 Name:		libpurple-protocol-facebookchat
 Version:	1.69
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Applications/Networking
 URL:		http://code.google.com/p/pidgin-facebookchat/
